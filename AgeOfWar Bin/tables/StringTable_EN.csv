@@ -1,0 +1,9 @@
+ID,STRING
+HI,HI
+TITLE,Zombie Arena
+Zombie_BLOATER_NAME,Zombie 1번 이름
+Zombie_BLOATER_DESC,Zombie 1번 설명
+Zombie_CHASER_NAME,Zombie 2번 이름
+Zombie_CHASER_DESC,Zombie 2번 설명
+Zombie_CRAWLER_NAME,Zombie 3번 이름
+Zombie_CRAWLER_DESC,Zombie 3번 설명

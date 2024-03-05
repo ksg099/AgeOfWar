@@ -1,0 +1,4 @@
+"ID(0:Bloater, 1:Chaser, 2: Crawler)",NAME,DESC,TEXTURE,MAXHP,SPEED,DAMAGE,ATTACKIINTERVAL
+0,Zombie_BLOATER_NAME,Zombie_BLOATER_DESC,graphics/bloater.png,60,100,15,1
+1,Zombie_CHASER_NAME,Zombie_CHASER_DESC,graphics/chaser.png,40,75,10,0.5
+2,Zombie_CRAWLER_NAME,Zombie_CRAWLER_DESC,graphics/crawler.png,20,50,5,0.25
